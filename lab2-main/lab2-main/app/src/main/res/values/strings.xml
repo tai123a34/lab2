@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find Age</string>
+    <string name="ageButton">ageButton</string>
+    <string name="etYear">etYear</string>
+</resources>
